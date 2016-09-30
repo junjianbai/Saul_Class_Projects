@@ -1,0 +1,35 @@
+
+
+The Application of Machine learning in Analysis Hard Rate of Licorice Seeds
+                                                                   Junjian Bai
+
+
+Describe the problem
+
+Licorice is a traditional Chinese herbal medicine. Its seed is characterized by hardness. Usually, the hard rate of licorice-seed is determined by soaking the seeds, although this method is time-consuming and sometimes destroys the seeds. Therefore, developing a fast and nondestructive analysis technique for determining hard rate of licorice seeds is important and could promote the application of hard seeds in cultivation.
+
+Data:
+We use the data of licorice seeds of Near-infrared (NIR) spectroscopy to analysis the hard rate of licorice seeds.
+The licorice seeds used in this experiment were harvested between 2002 and 2007, from various locations within China, including the Xinjiang municipality, Ningxia province, Inner-Mongolia municipality, Gansu province, Shanxi province and Heilongjiang province. The licorice-seed hard rate varied from 0.3% to 99.3%. After removing impurities, the seeds were put in a sample pool with the a diameter of 50mm. A total of 112 licorice seeds were used in the experiment.
+Near-infrared (NIR) spectroscopy [ Wang, Xue and Sun: (2012); Yang, Gao and Sun: (2015)] is based on the absorption of electromagnetic radiation ranging from 4000 to 12000. NIR spectra can provide rich information on molecular structure. Recently, NIR spectroscopy has demonstrated great potential in the analysis of complex samples owing to its simplicity, rapidity and nondestructivity, and has been successfully applied to analyze the chemical ingredients or quality parameters of compounds.
+
+
+Why I choose this project?
+
+When I was an undergraduate student, I learned at China agriculture university. My major is mathematics, so I want to something that can conject the mathematics and statistic with agriculture problem. And I think machine learning is the a good way to exploration the probabilities of this question.
+
+
+Input: Number of wavelengths of samples
+Output:absorbance of the hard Rate of Licorice Seeds
+
+
+
+
+Do you know any data available for your learning task
+
+Right now, I have some data about the near-infrared spectroscopy of the licorice seeds. It well help me to solve this question.
+
+
+What learning paradigm you think you will use
+
+May be i will use the supervised machine learning model. Probably I could use Extreme learning machine (ELM)[Huang,Siew and Zhu (2006)] which is a popular and important learning algorithm for single-hidden-layer feedforward neural networks (SLFNs).
